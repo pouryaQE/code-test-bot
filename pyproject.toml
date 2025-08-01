@@ -7,3 +7,5 @@ requires-python = ">=3.11"
 dependencies = [
     "python-telegram-bot",
 ]
+[tool.poetry]
+package-mode = false
